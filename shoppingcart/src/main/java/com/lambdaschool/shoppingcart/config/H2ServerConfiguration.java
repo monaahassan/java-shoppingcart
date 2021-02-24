@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 
 import java.sql.SQLException;
 
-/**
+/** Yes
  * Configures H2 access through the JetBrains IntelliJ IDEA IDE.
  * <p>
  * Adapted from https://techdev.io/en/developer-blog/querying-the-embedded-h2-database-of-a-spring-boot-application
